@@ -1,3 +1,4 @@
+﻿aaaaaaaaaaaaaaaaaaaaaaa
 %originarioDe(Genero,Pais).
 originarioDe(tango,argentina).
 originarioDe(chacarera, argentina).
